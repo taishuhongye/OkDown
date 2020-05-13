@@ -28,11 +28,11 @@ DownLoadHttpUtils.getInstance()
             .down() //必选，开始下载
 ```
     
-      预览  
+      预览  下了个应用宝。打算下抖音来着。公司那破网下抖音慢，苦恼。
   
   
 
-<img src="https://github.com/Rocketer2018/OkDown/blob/master/Android%20Emulator%20%20Pixel_2_API_29_5554%202020-05-13%2023-32-12~1.gif" alt="guthub by Microsoft  is sb" />  
+<img src="https://github.com/Rocketer2018/OkDown/blob/master/Android%20Emulator%20-%20Pixel_2_API_29_5554%202020-05-13%2023-32-12.gif"  alt="guthub by Microsoft  is sb"/>  
       
 还可以自定义一些参数。
 ```kotlin

@@ -1,2 +1,3 @@
 rootProject.name='OkDown'
 include ':app'
+include ':okdown'

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">OkDown</string>
+    <string name="hello_okdown">Hello okDown!</string>
 </resources>

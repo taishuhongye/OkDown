@@ -1,5 +1,5 @@
 # OkDown
-基于okhttp3的文件下载框架。
+Android 基于okhttp3 的文件下载库。
 
 **feature:**  
 1.调用简单，一键下载  
@@ -9,7 +9,7 @@
 5.重复下载判断。  
 6.调用优雅。
   
-一切用默认值的话，超简单：
+一切用默认值的话，超简单且优雅：
 ```kotlin
 DownLoadHttpUtils.getInstance()
         .setActionCallBack({  //可选，回调函数
